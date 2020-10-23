@@ -1,0 +1,25 @@
+{
+  "name": "opyn-v1-connector",
+  "version": "0.0.1",
+  "description": "A utility for interacting with the opyn smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opyn",
+    "opyn.co",
+    "options",
+    "ethereum"
+  ],
+  "author": "conspyrosy",
+  "license": "ISC",
+  "dependencies": {
+    "deepmerge": "^4.2.2",
+    "web3": "^1.3.0",
+    "web3-batch-request": "^1.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
